@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ironsoftware-challenge/1.0.0": {
+        "runtime": {
+          "ironsoftware-challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ironsoftware-challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

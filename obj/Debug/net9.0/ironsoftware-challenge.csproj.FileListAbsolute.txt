@@ -1,0 +1,14 @@
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\bin\Debug\net9.0\ironsoftware-challenge.exe
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\bin\Debug\net9.0\ironsoftware-challenge.deps.json
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\bin\Debug\net9.0\ironsoftware-challenge.runtimeconfig.json
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\bin\Debug\net9.0\ironsoftware-challenge.dll
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\bin\Debug\net9.0\ironsoftware-challenge.pdb
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\obj\Debug\net9.0\ironsoftware-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\obj\Debug\net9.0\ironsoftware-challenge.AssemblyInfoInputs.cache
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\obj\Debug\net9.0\ironsoftware-challenge.AssemblyInfo.cs
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\obj\Debug\net9.0\ironsoftware-challenge.csproj.CoreCompileInputs.cache
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\obj\Debug\net9.0\ironsoftware-challenge.dll
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\obj\Debug\net9.0\refint\ironsoftware-challenge.dll
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\obj\Debug\net9.0\ironsoftware-challenge.pdb
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\obj\Debug\net9.0\ironsoftware-challenge.genruntimeconfig.cache
+C:\Users\devil\Documents\Job\interview\ironsoftware\ironsoftware-challenge\obj\Debug\net9.0\ref\ironsoftware-challenge.dll
