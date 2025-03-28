@@ -34,3 +34,11 @@ I add some test cases for each keyboard layout `TH/ENG`
 cd ironsoftware-tests
 dotnet test
 ```
+
+## Branches
+I migrate the current migration into a new `master` while safely migrating an old master branch into `old_feature`.
+```
+Migration - Use it for migrate the branch
+Master - Main branch
+Old_feature - Old branch before adding XUnit and Ninject 
+```
